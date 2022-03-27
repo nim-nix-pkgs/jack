@@ -11,6 +11,7 @@
   inputs.src-jack-master.ref   = "refs/heads/master";
   inputs.src-jack-master.owner = "Skrylar";
   inputs.src-jack-master.repo  = "nim-jack";
+  inputs.src-jack-master.dir   = "";
   inputs.src-jack-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
