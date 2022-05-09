@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/Skrylar/nim-jack",
   "refs": [
-    "fatal: unable to access 'https://github.com/Skrylar/nim-jack/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/Skrylar/nim-jack/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
     ""
   ],
   "heads": []
